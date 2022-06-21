@@ -16,8 +16,6 @@ Please submit issues or any sort of query to garvwebdesign@gmail.com
 
 
 
-
-
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
