@@ -5,4 +5,4 @@
 
 Please submit issues or any sort of query to garvwebdesign@gmail.com
 
-![alt text]([[http://url/to/img.png](https://github.com/samgarvis/Atlanta-8-Ball/blob/main/tonight.png?raw=true](https://github.com/samgarvis/Atlanta-8-Ball/blob/main/tonight.png?raw=true)))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/samgarvis/Atlanta-8-Ball/blob/main/tonight.png?raw=true))
